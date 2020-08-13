@@ -1,9 +1,5 @@
 {
    "studs": [
-      {
-         "id": 1,
-         "name": "Shivank",
-         "class": "3"
-      }
+      {"id": 1, "name": "Shivank", "class": "3"}
    ]
 }
