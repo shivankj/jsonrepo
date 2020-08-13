@@ -1,6 +1,10 @@
 {
-   "name": "Shivank",
-   "class": "3",
+   "studs": [
+      {
+         "name": "Shivank",
+         "class": "3",
+      }
+   ]
    "profile": {
     "name": "shivankj"
    }
